@@ -1,12 +1,18 @@
-## Hi there 👋
 
-<!--
+## JavaDocs
 
-**Here are some ideas to get you started:**
+[Ships](https://minecraft-ships.github.io/ShipsForCore/)
+[Translate Core](https://minecraft-ships.github.io/TranslateCore/)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Ships
+
+ships is a Minecraft plugin built ontop of the TranslateCore translation layer.
+
+### Downloads:
+
+| Platform | Site |
+|:--------:|:----:|
+| [Sponge](https://ore.spongepowered.org/MoseMister/Ships) | Ore (Sponge) |
+| [Paper](https://dev.bukkit.org/projects/ships/files) | Dev Bukkit (CurseForge) |
+| [Paper](https://www.spigotmc.org/resources/ships.2072/) | Spigot Resources (Spigot) | 
+| [Paper](https://hangar.papermc.io/mosemister/Ships) | Hanger (Paper) |
